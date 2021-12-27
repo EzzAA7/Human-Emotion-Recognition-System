@@ -1,5 +1,6 @@
 # Human-Emotion-Recognition-System
 Human Emotion Recognition System (ML)
+Looks to distingush sounds of 1: "anger", 2: "bordom", 3: "fear", 4: "happy", 5: "sadness", 6: "neutral" from each other.
 
 - The main driver is "Main.py", it has the feature extraction,selection and system modelling.
 
